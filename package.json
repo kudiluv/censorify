@@ -1,6 +1,6 @@
 {
   "author": "igor",
-  "name": "test-censorify",
+  "name": "npm-qqweerrttyy-helloworld",
   "version": "1.0.0",
   "description": "Censors words out of text",
   "main": "censortext",
@@ -15,4 +15,5 @@
   "engines": {
     "node": "*"
   }
+  
 }
