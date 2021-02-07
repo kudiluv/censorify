@@ -1,6 +1,6 @@
 {
   "author": "igor",
-  "name": "npm-qqweerrttyy-helloworld",
+  "name": "npm-igor-helloworld",
   "version": "1.0.0",
   "description": "Censors words out of text",
   "main": "censortext",
@@ -15,5 +15,5 @@
   "engines": {
     "node": "*"
   }
-  
+
 }
