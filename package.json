@@ -1,11 +1,18 @@
 {
   "author": "igor",
-  "name" : "censorify",
-  "version" : "0.1.1",
-  "description" : "Censors words out of text",
-  "main" : "censortext",
-  "dependencies" : {},
-  "engines" : {
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kudiluv/censorify"
+  },
+  "keywords": [
+    "censor", "words"
+  ],
+  "dependencies": {},
+  "engines": {
     "node": "*"
-    }
+  }
 }
