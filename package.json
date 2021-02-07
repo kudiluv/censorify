@@ -1,9 +1,9 @@
 {
   "author": "igor",
-  "name": "npm-igor-helloworld",
-  "version": "1.0.0",
+  "name": "npm-igor-helloworld2",
+  "version": "1.0.2",
   "description": "Censors words out of text",
-  "main": "censortext",
+  "main": "censortext.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kudiluv/censorify"
